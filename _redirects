@@ -1,0 +1,5 @@
+# Redirects specific requests to specific destinations
+
+#request                    destination
+/                           https://prashant-tripathi.me
+/beginners-only             https://prashant-tripathi.me/beginners-only
