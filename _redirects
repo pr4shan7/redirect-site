@@ -8,6 +8,5 @@ https://redirect-site.netlify.com/* https://p7x.me/:splat 301!
 
 #request                     #destination
 
-/info                        https://prashant-tripathi.me/redirect-site 200
 /                            https://prashant-tripathi.me
 /*                           https://prashant-tripathi.me/:splat
