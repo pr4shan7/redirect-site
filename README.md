@@ -1,6 +1,6 @@
-# [redirect-site](https://github.com/pr4shan7/redirect-site) &middot; [![Netlify Status](https://api.netlify.com/api/v1/badges/9727b20a-efc0-456e-9bde-6fc197a9085f/deploy-status)](https://app.netlify.com/sites/redirect-site/deploys)
+# redirect-site &middot; [![Netlify Status](https://api.netlify.com/api/v1/badges/9727b20a-efc0-456e-9bde-6fc197a9085f/deploy-status)](https://app.netlify.com/sites/redirect-site/deploys)
 
-[This site](https://p7x.me) redirects to my other sites.
+[This site](https://p7x.me) redirects to my other sites and is built using [this repo](https://github.com/pr4shan7/redirect-site).
 
 ## What I learned
 
