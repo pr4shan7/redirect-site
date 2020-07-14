@@ -9,5 +9,4 @@ https://redirect-site.netlify.com/* https://p7x.me/:splat 301!
 #request                     #destination
 
 /info                        https://info.p7x.me
-/                            https://prashant-tripathi.me
-/*                           https://prashant-tripathi.me/:splat
+/*                           https://prashant-tripathi.me/:splat !
