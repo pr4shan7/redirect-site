@@ -8,7 +8,7 @@ https://redirect-site.netlify.com/* https://p7x.me/:splat 301!
 
 #request                     #destination
 
-/info                        https://info.p7x.me
-/                            https://pr4shan7.github.io
-/me                          https://pr4shan7.github.io
+/info                        https://info.p7x.me 301
+/                            https://pr4shan7.github.io 301!
+/me                          https://pr4shan7.github.io 301
 /*                           https://pr4shan7.github.io/:splat
